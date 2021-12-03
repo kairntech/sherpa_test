@@ -1,2 +1,2 @@
-# sherpa_demo
-Demo page of Kairntech Sherpa
+# sherpa_test
+Demo page of Kairntech Sherpa (requires a login/password)
